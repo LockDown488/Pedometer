@@ -6,7 +6,7 @@ public class StepTracker {
     private Scanner scanner;
     private MonthData monthData;
     private Converter converter = new Converter();
-    MonthData[] monthToData = new MonthData[12];
+    private MonthData[] monthToData = new MonthData[12];
     private int goalByStepsPerDay = 10000;
 
     public StepTracker(Scanner scanner) {
@@ -15,10 +15,6 @@ public class StepTracker {
         for (int i = 0; i < monthToData.length; i++) {
             monthToData[i] = new MonthData();
         }
-    }
-
-    public int getGoal() {
-        return goalByStepsPerDay;
     }
 
     public void addNewNumberStepsPerDay() {
