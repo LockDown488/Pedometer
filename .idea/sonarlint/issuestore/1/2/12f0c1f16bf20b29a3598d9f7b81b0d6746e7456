@@ -1,0 +1,7 @@
+
+|
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "sumSteps".(èè¯n8ÿÙí ™2
+m
+java:S1104"PMake days a static final constant or non-public and provide accessors if needed.(Îì¤¹8ÿÙí ™2
+L	java:S106"+Replace this use of System.out by a logger.(ŠÒö±ûÿÿÿÿ8Úí ™2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÙÉâœûÿÿÿÿ8Úí ™2

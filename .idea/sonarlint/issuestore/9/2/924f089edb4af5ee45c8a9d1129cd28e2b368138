@@ -1,0 +1,8 @@
+
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8œ¡™2
+L	java:S106"+Replace this use of System.out by a logger.(ŠîöÄıÿÿÿÿ8Å´“¡™2
+L	java:S106 "+Replace this use of System.out by a logger.(³äÄ™şÿÿÿÿ8Å´“¡™2
+L	java:S106!"+Replace this use of System.out by a logger.(Ï€àÑşÿÿÿÿ8Å´“¡™2
+L	java:S106""+Replace this use of System.out by a logger.(¤âÇÎùÿÿÿÿ8Å´“¡™2
+G	java:S106#"+Replace this use of System.out by a logger.(…Â•Â8Æ´“¡™2
+G	java:S106$"+Replace this use of System.out by a logger.(Ä¬”²8Ôø–¡™2
