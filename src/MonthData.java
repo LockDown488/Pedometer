@@ -41,12 +41,11 @@ public class MonthData {
         for (int i = 0; i < days.length; i++) {
             if (days[i] >= goal) {
                 currentSeries++;
+                if (currentSeries > finalSeries) {
+                    finalSeries = currentSeries;
+                }
             } else {
                 currentSeries = 0;
-            }
-
-            if (currentSeries > finalSeries) {
-                finalSeries = currentSeries;
             }
         }
 
